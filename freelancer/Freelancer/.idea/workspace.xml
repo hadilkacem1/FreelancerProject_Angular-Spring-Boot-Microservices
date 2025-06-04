@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="43fccc4f-86b9-43a9-8102-773f117c8493" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Freelancer/Freelancer-MS/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Freelancer/Freelancer-MS/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Freelancer/Freelancer-MS/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Freelancer/Freelancer-MS/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Freelancer/Freelancer-MS/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Freelancer/Freelancer-MS/CorsConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Freelancer/Freelancer-MS/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Freelancer/Freelancer-MS/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Freelancer/Freelancer-MS/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Freelancer/Freelancer-MS/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Freelancer/Freelancer-MS/src/main/java/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Freelancer/Freelancer-MS/src/main/java/com/esprit/freelancer/FreelancersController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Freelancer/Freelancer-MS/src/main/java/com/esprit/freelancer/FreelancersInfoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Freelancer/Freelancer-MS/src/main/java/com/esprit/freelancer/FreelancersModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Freelancer/Freelancer-MS/src/main/java/com/esprit/freelancer/FreelancersRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Freelancer/Freelancer-MS/src/main/java/com/esprit/freelancer/FreelancersService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Freelancer/Freelancer-MS/src/main/java/com/esprit/freelancer/FreelancersServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Freelancer/Freelancer-MS/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Freelancer/Freelancer-MS/target/Freelancer-MS-1.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Freelancer/Freelancer-MS/target/Freelancer-MS-1.0.1-SNAPSHOT.jar.original" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Freelancer/Freelancer-MS/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Freelancer/Freelancer-MS/target/classes/com/esprit/freelancer/FreelancersController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Freelancer/Freelancer-MS/target/classes/com/esprit/freelancer/FreelancersInfoApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Freelancer/Freelancer-MS/target/classes/com/esprit/freelancer/FreelancersModel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Freelancer/Freelancer-MS/target/classes/com/esprit/freelancer/FreelancersRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Freelancer/Freelancer-MS/target/classes/com/esprit/freelancer/FreelancersService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Freelancer/Freelancer-MS/target/classes/com/esprit/freelancer/FreelancersServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Freelancer/Freelancer-MS/target/maven-archiver/pom.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Freelancer/Freelancer-MS" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2WuQlgYeU02nuFk0Rb3Ru94L9cH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/WIDED/OneDrive/Bureau/Freelancer",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\WIDED\Downloads\GestionStock-MS-master-1 (2)-final\GestionStock-MS-master-1 (1)-final\GestionStock-MS-master-1 (1)\GestionStock-MS-master-1\GestionStock-MS-master" />
+      <recent name="C:\Users\WIDED\Downloads\GestionStock-MS-master-1 (1)-final\GestionStock-MS-master-1 (1)\GestionStock-MS-master-1\GestionStock-MS-master\Formation-Node-MS\app" />
+      <recent name="C:\Users\WIDED\Downloads\GestionStock-MS-master-1 (1)\GestionStock-MS-master-1\GestionStock-MS-master\Projet_MS" />
+      <recent name="C:\Users\WIDED\Downloads\GestionStock-MS-master-1 (1)\GestionStock-MS-master-1\GestionStock-MS-master\Offre_emploi-MS" />
+      <recent name="C:\Users\WIDED\Downloads\GestionStock-MS-master-1 (1)\GestionStock-MS-master-1\GestionStock-MS-master\Freelancer-MS" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\WIDED\Downloads\GestionStock-MS-master-1 (2)-final\GestionStock-MS-master-1 (1)-final\GestionStock-MS-master-1 (1)\GestionStock-MS-master-1\GestionStock-MS-master\Formation-Node-MS\app\models" />
+      <recent name="C:\Users\WIDED\Downloads\GestionStock-MS-master-1 (1)-final\GestionStock-MS-master-1 (1)\GestionStock-MS-master-1\GestionStock-MS-master\Formation-Node-MS\app\models" />
+      <recent name="C:\Users\WIDED\Downloads\GestionStock-MS-master-1 (1)-final\GestionStock-MS-master-1 (1)\GestionStock-MS-master-1\GestionStock-MS-master\Formation-Node-MS" />
+      <recent name="C:\Users\WIDED\Downloads\GestionStock-MS-master-1 (1)-final\GestionStock-MS-master-1 (1)\GestionStock-MS-master-1\GestionStock-MS-master\Formation-Node-MS\app" />
+      <recent name="C:\Users\WIDED\Downloads\GestionStock-MS-master\GestionStock-MS-master\mysql-init-scripts" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Docker.Fournisseur-MS/Dockerfile">
+    <configuration name="Fournisseur-MS/Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="sourceFilePath" value="GestionStock-MS-master/Fournisseur-MS/Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="config-server/Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="sourceFilePath" value="GestionStock-MS-master/config-server/Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.Fournisseur-MS/Dockerfile" />
+        <item itemvalue="Docker.config-server/Dockerfile" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="43fccc4f-86b9-43a9-8102-773f117c8493" name="Changes" comment="" />
+      <created>1697580138067</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697580138067</updated>
+      <workItem from="1697580139474" duration="3961000" />
+      <workItem from="1697616320269" duration="2101000" />
+      <workItem from="1697618991575" duration="20928000" />
+      <workItem from="1697649960468" duration="14069000" />
+      <workItem from="1697707364721" duration="1739000" />
+      <workItem from="1697710815006" duration="6331000" />
+      <workItem from="1697822002995" duration="22785000" />
+      <workItem from="1697889341516" duration="726000" />
+      <workItem from="1697890574199" duration="5902000" />
+      <workItem from="1697903273223" duration="1518000" />
+      <workItem from="1697905327538" duration="2842000" />
+      <workItem from="1697908520456" duration="118000" />
+      <workItem from="1697910037333" duration="106000" />
+      <workItem from="1697910197557" duration="8108000" />
+      <workItem from="1697927203206" duration="1879000" />
+      <workItem from="1697995797643" duration="1870000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
